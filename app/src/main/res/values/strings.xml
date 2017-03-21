@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WidgetProperties</string>
+    <string name="but_str1">Click Button</string>
+    <string name="text1">Text Size</string>
+    <string name="text2">Text Color</string>
+    <string name="text3">Text Typeface 글꼴</string>
+    <string name="text4">Text Style</string>
+    <string name="text5">Text Single Line 싱글라인 김인재보고싶다 어차피 우스은 루나틱 Text Single Line</string>
+
+</resources>

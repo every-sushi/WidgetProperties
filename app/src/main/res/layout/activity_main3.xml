@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <Button
+        android:layout_marginLeft="10sp"
+        android:layout_marginTop="10sp"
+        android:id="@+id/button"
+        android:layout_width="363dp"
+        android:layout_height="wrap_content"
+        android:background="#cad1fd"
+
+        android:text="EscA" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15sp"
+        android:text="여긴 텍스트뷰입니다`~!~!~!"
+        android:textSize="40sp"
+        android:layout_weight="0.5" />
+
+    <Button
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="50sp"
+        android:layout_width="347dp"
+        android:layout_height="wrap_content"
+        android:text="EscA"
+        android:background="#fffebe"
+        />
+    <Button
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="50sp"
+        android:layout_width="70dp"
+        android:layout_height="200dp"
+        android:text="에숙가"
+        android:background="#ffa8c1"
+        android:layout_weight="0.11" />
+
+</LinearLayout>
