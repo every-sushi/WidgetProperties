@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text2"
         android:textSize="20sp"
-        android:textColor="#f2b4b4"
+        android:textColor="#f78d8d"
         />
 
     <TextView
@@ -57,7 +57,7 @@
         android:layout_height="wrap_content"
         android:text="@string/text4"
         android:textSize="30sp"
-        android:textStyle="bold|italic"
+        android:textStyle="bold"
         />
     <TextView
         android:layout_width="match_parent"
